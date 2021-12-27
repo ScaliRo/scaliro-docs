@@ -1,3 +1,9 @@
+# Actions
+
+[![.github/workflows/deploy.yml](https://github.com/ScaliRo/scaliro-docs/actions/workflows/deploy.yml/badge.svg)](https://github.com/ScaliRo/scaliro-docs/actions/workflows/deploy.yml)
+[![.github/workflows/test-deploy.yml](https://github.com/ScaliRo/scaliro-docs/actions/workflows/test-deploy.yml/badge.svg)](https://github.com/ScaliRo/scaliro-docs/actions/workflows/test-deploy.yml)
+
+
 # Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
