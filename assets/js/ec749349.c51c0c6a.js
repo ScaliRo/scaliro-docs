@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscaliro_docs=self.webpackChunkscaliro_docs||[]).push([[39],{5353:function(s){s.exports=JSON.parse('{"allTagsPath":"/scaliro-docs/blog/tags","slug":"/scaliro-docs/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/scaliro-docs/blog/tags/docusaurus"}')}}]);

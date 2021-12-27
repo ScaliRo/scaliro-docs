@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkscaliro_docs=self.webpackChunkscaliro_docs||[]).push([[25],{9307:function(o){o.exports=JSON.parse('{"permalink":"/scaliro-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
