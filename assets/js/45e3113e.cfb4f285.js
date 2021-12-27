@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkscaliro_docs=self.webpackChunkscaliro_docs||[]).push([[868],{9072:function(o){o.exports=JSON.parse('{"allTagsPath":"/scaliro-docs/blog/tags","slug":"/scaliro-docs/blog/tags/facebook","name":"facebook","count":1,"permalink":"/scaliro-docs/blog/tags/facebook"}')}}]);
